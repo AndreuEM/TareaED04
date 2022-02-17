@@ -1,7 +1,8 @@
 package cuentas;
 /**
- * 
- * @author andre
+ * No tengo los conociminetos previos para poder comentar el código, solo hago FOL y Entornos de desarrollo, 
+ * ya que fueron las unicas asignaturas de las que pude matricularme.
+ * @author Andreu Ensenyat
  *
  */
 public class CCuenta {
@@ -29,7 +30,7 @@ public class CCuenta {
         saldo=sal;
     }
 /**
- * 
+ * Nos muestra el saldo
  * @return
  */
     public double estado()
